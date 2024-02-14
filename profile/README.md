@@ -1,6 +1,37 @@
-## BlocksBot 
+# BlocksBot - Craft Custom Alerts: Stay Ahead with Real-Time Trading Notifications
 
-Unlock Your Trading Potential: Craft Your Trading Bot with Drag-and-Drop Ease.
+It lets you create custom alerts with a no-code, drag-and-drop interface.
+
+## Demo
+
+You can watch the demo video below:
+
+https://github.com/blocksbot/.github/assets/17675270/b5644c2a-3e45-4496-80d0-c8b810b0ad3a
+
+## TechStack
+
+### Backend
+
+- GoLang
+- REST APIs
+- gRPC
+- RabbitMQ
+- Redis
+- Postgres
+
+### Frontend
+
+- ReactJs
+- NextJs
+- Tanstack Query
+- Zustand
+- React Flow
+
+## Architecture
+
+![Architecture](https://github.com/blocksbot/.github/assets/17675270/7c382855-998e-41ee-87d3-fcff8c17d2bf)
+
+
 
 <!--
 
